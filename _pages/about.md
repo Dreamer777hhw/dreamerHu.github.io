@@ -4,7 +4,7 @@ I am currently a junior undergraduate majoring in Information Security. I have a
 
 ## CV
 
-You can find my CV here.
+You can find my CV here.[Haowen Hu's CV](../assets/CV.pdf)
 
 ## CONTACT INFORMATION
 [Email](dreamer777@sjtu.edu.cn) / [Github](https://github.com/Dreamer777hhw)
