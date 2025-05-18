@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 ## ABOUT ME
 
 I am currently a junior undergraduate majoring in Information Security. I have a strong interest in research related to AI and security. Now I'm eager to further explore and contribute to research in these fields.
